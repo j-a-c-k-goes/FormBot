@@ -35,6 +35,9 @@ _Note: I am using poetry as a package manager, also GitHub's command-line tools.
 
 ## Sources and Resources
 [ femalefreelancedevelopers ](https://femalefreelancedevelopers.com/)
+
 [ screeninfo ](https://github.com/rr-/screeninfo)
+
 [ creating a virtual environment ](https://docs.python.org/3/tutorial/venv.html)
+
 [ selenium documentation ](https://www.selenium.dev/documentation/)
