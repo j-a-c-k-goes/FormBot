@@ -1,0 +1,15 @@
+# Keep .DS_Store out
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
+.*/*/*/.DS_Store
+
+# Ignore tests ( for now )
+tests/
+
+# Ignore lock file
+poetry.lock
+
+# Ignore heavier content
+FormBotTesting.mov

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "formbot"
+version = "0.1.0"
+description = "FormBot does web forms."
+authors = ["xyz <jack@flnpb.com>"]
+readme = "README.md"
+packages = [{include = "formbot", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.30.0"
+selenium = "^4.9.1"
+webdriver-manager = "^3.8.6"
+screeninfo = "^0.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
