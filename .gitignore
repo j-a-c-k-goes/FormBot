@@ -8,6 +8,9 @@
 # Ignore tests ( for now )
 tests/
 
+# Ignore page source output
+src/formbot/test.html
+
 # Ignore lock file
 poetry.lock
 
