@@ -21,7 +21,7 @@ _Note: I am using poetry as a package manager, also GitHub's command-line tools.
 * Run the script
 	- `python3 -i app.py`
 
-## FormBot Work Like
+## FormBot Works Like
 * Connects to a website.
 * Determines form elements.
 * Prepares needed data.
